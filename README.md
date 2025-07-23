@@ -1,5 +1,5 @@
 
-<p align="center">
+<div align="center">
 <h3> Hey there👋! I'm Noelia Duran</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=30&duration=4000&pause=500&color=F7BBF6&width=440&height=70&lines=Systems+Engineering+Student;Always+learning+something+new!;Open+to+Collaborations)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Noelia_Duran-%23a9cce3?style=for-the-badge&label=in&labelColor=%23e5e7e9&link=www.linkedin.com%2Fin%2Fnoeliaduranllaveta)
 ![Static Badge](https://img.shields.io/badge/noeliapaoladuranllaveta%40gmail.com-%23fadbd8?style=for-the-badge&label=gmail&labelColor=%23e5e7e9)
-</p>
+</div>
 
 ## 🛠 &nbsp;Tech Stack
 
