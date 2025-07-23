@@ -12,8 +12,8 @@
 - 👨🏻‍💻 &nbsp; Still learning every day — always curious, always building.
 
 
-[![Static Badge](https://img.shields.io/badge/Noelia_Duran-%23a9cce3?style=for-the-badge&label=in&labelColor=%23e5e7e9&link=www.linkedin.com%2Fin%2Fnoeliaduranllaveta)
-[![Static Badge](https://img.shields.io/badge/noeliapaoladuranllaveta%40gmail.com-%23fadbd8?style=for-the-badge&label=gmail&labelColor=%23e5e7e9)
+![Static Badge](https://img.shields.io/badge/Noelia_Duran-%23a9cce3?style=for-the-badge&label=in&labelColor=%23e5e7e9&link=www.linkedin.com%2Fin%2Fnoeliaduranllaveta)
+![Static Badge](https://img.shields.io/badge/noeliapaoladuranllaveta%40gmail.com-%23fadbd8?style=for-the-badge&label=gmail&labelColor=%23e5e7e9)
 </p>
 
 ## 🛠 &nbsp;Tech Stack
