@@ -44,7 +44,7 @@
 ## 📈 Stats
 
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
+![Noelia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaduran&theme=buefy&layout=compact&langs_count=10)
 
 ----
 Credit: [Prathmesh Jadhav](https://github.com/prathmesh16)
