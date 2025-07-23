@@ -12,7 +12,7 @@
 - 👨🏻‍💻 &nbsp; Still learning every day — always curious, always building.
 
 
-[![Static Badge](https://img.shields.io/badge/in-Noelia_Duran_Llaveta-%23154360%20?style=for-the-badge&label=in&labelColor=%23e5e7e9%20&link=www.linkedin.com%2Fin%2Fnoeliaduranllaveta)]
+[![Static Badge](https://img.shields.io/badge/in-Noelia_Duran_Llaveta-%23154360%20?style=for-the-badge&label=in&labelColor=%23e5e7e9%20&link=www.linkedin.com%2Fin%2Fnoeliaduranllaveta)](https://www.linkedin.com/in/noeliaduranllaveta)
 
 [![Static Badge](https://img.shields.io/badge/noeliapaoladuranllaveta%40gmail.com-%23641e16?style=for-the-badge&labelColor=%23641e16)](mailto:noeliapaoladuranllaveta@gmail.com)
 
