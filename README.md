@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring the world of development.
+- 🤔 &nbsp; Exploring the world of development and QA/Testing.
 - 🎓 &nbsp; Student at Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca(USFX).
 - 👨🏻‍💻 &nbsp; Still learning every day — always curious, always building.
 
